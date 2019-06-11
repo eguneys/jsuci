@@ -1,0 +1,12 @@
+{
+  "name": "jsuci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node src/tests.js"
+  },
+  "devDependencies": {
+    "testiz": "^1.0.3"
+  }
+}
